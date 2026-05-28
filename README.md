@@ -1,4 +1,5 @@
 Projeto de Big Data: Previsão de Mercado Financeiro com PySpark
+
 Este projeto foi desenvolvido no âmbito da Unidade Curricular de Processamento de Big Data da Pós-Graduação em Data Science do ISLA Santarém. O objetivo principal é a implementação de um pipeline de Machine Learning escalável, utilizando o ecossistema Apache Spark para prever a direção dos retornos do Bitcoin (BTC/USDT).
 
 🚀 Objetivo
@@ -11,8 +12,8 @@ Engenharia de Features: Criação de indicadores técnicos (RSI, MACD, Médias M
 Machine Learning: Aplicação de redução de dimensionalidade (PCA) e modelagem preditiva com pyspark.ml (Regressão e Classificação).
 
 👥 Elementos do Grupo:
-Elena Niculita Bobil
-João Paulo Francisco
+Elena Bobil - a22502168 
+João Paulo Francisco - a22510741 
 
 
 🏗️ Estrutura do Projeto
