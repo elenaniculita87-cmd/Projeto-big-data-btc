@@ -32,8 +32,11 @@ Dada a natureza de séries temporais dos dados financeiros, evitámos a divisão
 
 🚀 Como executar
 1 - Certifica-te de ter o Spark instalado ou utiliza um ambiente como o Google Colab.
+
 2 - Clona o repositório:
 git clone https://github.com/teu-usuario/teu-repositorio.git
+
 3 - Instala as dependências necessárias:
 pip install pyspark
+
 4 - Abre o ficheiro Projeto_de_Big_Data.ipynb no Jupyter ou no VS Code e executa todas as células (Run All).
